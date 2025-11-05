@@ -1,6 +1,7 @@
 ---
 title: "Информатика"
 description: "Лабораторные и самостоятельные работы по дисциплине Информатика"
+date: false
 categories:
     - works/1-kurs
 tags:
