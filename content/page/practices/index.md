@@ -1,12 +1,8 @@
-
-
-
 ---
 title: "Практики"
-date: 2023-08-10
-publishdate: 2024-06-10
-draft: false
-tags: ["Практики"]
+description: "Практики"
+date: 2024-02-20
+slug: "practices"
 ---
 
 ---
