@@ -1,24 +1,72 @@
-# Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+# Главное меню
+[[main]]
+identifier = "home"
+name = "Главная"
+url = "/"
+weight = 1
+[main.params]
+icon = "home"
 
+[[main]]
+identifier = "1-kurs"
+name = "1 курс"
+url = "/1-kurs/"
+weight = 2
+[main.params]
+icon = "folder"
+
+[[main]]
+identifier = "2-kurs"
+name = "2 курс"
+url = "/2-kurs/"
+weight = 3
+[main.params]
+icon = "folder"
+
+[[main]]
+identifier = "3-kurs"
+name = "3 курс"
+url = "/3-kurs/"
+weight = 4
+[main.params]
+icon = "folder"
+
+[[main]]
+identifier = "4-kurs"
+name = "4 курс"
+url = "/4-kurs/"
+weight = 5
+[main.params]
+icon = "folder"
+
+[[main]]
+identifier = "kurs"
+name = "Курсовые"
+url = "/kurs/"
+weight = 6
+[main.params]
+icon = "book"
+
+[[main]]
+identifier = "practices"
+name = "Практики"
+url = "/practices/"
+weight = 7
+[main.params]
+icon = "briefcase"
+
+[[main]]
+identifier = "about"
+name = "Обо мне"
+url = "/about/"
+weight = 8
+[main.params]
+icon = "user"
+
+# Социальные ссылки
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
-
+url = "https://github.com/danyakr"
 [social.params]
 icon = "brand-github"
-
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
-
-[social.params]
-icon = "brand-twitter"
