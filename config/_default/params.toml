@@ -1,5 +1,5 @@
 # Основные разделы для главной страницы
-mainSections = ["works", "1-kurs", "2-kurs", "3-kurs", "4-kurs", "kurs", "practices"]
+mainSections = ["works", "kurs", "practices"]
 
 rssFullContent = true
 favicon = "/favicon.png"
