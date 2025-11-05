@@ -13,13 +13,13 @@ published = "02 Jan 2006"
 lastUpdated = "02 Jan 2006 15:04"
 
 [sidebar]
-emoji = "🎓"
+emoji = ""
 subtitle = "Студент РГПУ им. Герцена"
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.jpg"
 
 [article]
 headingAnchor = true
