@@ -65,6 +65,12 @@ weight = 10
 [main.params]
 icon = "archives"
 
+[[main]]
+identifier = "works"
+name = "Работы"
+url = "/works/"
+weight = 11
+
 # Социальные ссылки
 [[social]]
 identifier = "github"
