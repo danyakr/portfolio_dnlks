@@ -12,56 +12,58 @@ identifier = "1-kurs"
 name = "1 курс"
 url = "/1-kurs/"
 weight = 2
-[main.params]
-icon = "folder"
 
 [[main]]
 identifier = "2-kurs"
 name = "2 курс"
 url = "/2-kurs/"
 weight = 3
-[main.params]
-icon = "folder"
 
 [[main]]
 identifier = "3-kurs"
 name = "3 курс"
 url = "/3-kurs/"
 weight = 4
-[main.params]
-icon = "folder"
 
 [[main]]
 identifier = "4-kurs"
 name = "4 курс"
 url = "/4-kurs/"
 weight = 5
-[main.params]
-icon = "folder"
 
 [[main]]
 identifier = "kurs"
 name = "Курсовые"
 url = "/kurs/"
 weight = 6
-[main.params]
-icon = "book"
 
 [[main]]
 identifier = "practices"
 name = "Практики"
 url = "/practices/"
 weight = 7
-[main.params]
-icon = "briefcase"
 
 [[main]]
 identifier = "about"
 name = "Обо мне"
 url = "/about/"
 weight = 8
+
+[[main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 9
 [main.params]
-icon = "user"
+icon = "search"
+
+[[main]]
+identifier = "archives"
+name = "Архив"
+url = "/archives/"
+weight = 10
+[main.params]
+icon = "archives"
 
 # Социальные ссылки
 [[social]]
