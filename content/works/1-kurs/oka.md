@@ -11,7 +11,7 @@ tags:
 ---
 ## Тема 1: Основы компьютерной алгебры.
 
-**Лабораторная работа.**
+**Лабораторная работа.**  
 **[Задание 1.1](https://disk.yandex.ru/i/u-dZPG-ReT2DCQ)**  
 **[Задание 1.2](https://disk.yandex.ru/i/M5PujrkpkQkbeQ)**  
 **[Задание 1.3](https://disk.yandex.ru/i/h8rtHG1J0cW-DQ)**  
