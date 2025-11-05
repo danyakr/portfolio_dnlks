@@ -1,7 +1,7 @@
 ---
 title: "Информатика"
 description: "Лабораторные и самостоятельные работы по дисциплине Информатика"
-date: false
+date: 2023-08-10
 categories:
     - works/1-kurs
 tags:
