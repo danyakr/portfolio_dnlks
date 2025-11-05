@@ -39,9 +39,9 @@ slug: "it"
 
 ## Тема 4: Работа с программами по обработке аудио
 
-**[ЛР 4.1](https://disk.yandex.ru/i/o-KRmJVOab3Q2A)**
-**[ЛР 4.2](https://1drv.ms/u/s!Aj9eLzWpyS4ohBDYLMa7OsPJJ3Xa)** 
-**[Описание проблем](https://disk.yandex.ru/i/nM5woTaq6W9Z1A)**
+**[ЛР 4.1](https://disk.yandex.ru/i/o-KRmJVOab3Q2A)**  
+**[ЛР 4.2](https://1drv.ms/u/s!Aj9eLzWpyS4ohBDYLMa7OsPJJ3Xa)**  
+**[Описание проблем](https://disk.yandex.ru/i/nM5woTaq6W9Z1A)**  
 
 В этой работе проанализированы 7 программ/мобильных приложений/онлайн-сервисов для работы с аудио. Добавлено описание основных функций. Также записан аудио-подкаст на тему, связанную с современными проблемами информационной безопасности.
 
