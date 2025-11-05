@@ -7,7 +7,6 @@ categories:
     - 1-kurs
 tags:
     - информатика
-    - pascal
     - программирование
 ---
 
