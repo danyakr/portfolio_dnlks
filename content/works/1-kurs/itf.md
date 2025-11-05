@@ -6,6 +6,7 @@ categories:
     - works/1-kurs
 tags:
     - программирование
+slug: "itf"
 ---
 
 ---
