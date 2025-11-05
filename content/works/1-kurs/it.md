@@ -2,8 +2,6 @@
 title: "Информационные технологии"
 description: "Лабораторные работы по дисциплине Информационные технологии"
 date: 2023-08-10
-publishdate: 2024-06-10
-draft: false
 categories:
     - works/1-kurs
 tags:
