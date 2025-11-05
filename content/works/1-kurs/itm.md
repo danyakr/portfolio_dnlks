@@ -15,9 +15,9 @@ tags:
 
 #### Лабораторная работа
 
-- [Задание 0](https://disk.yandex.ru/i/W4ZIwJG0dz6byQ)
-- [Задание 1](https://disk.yandex.ru/i/0bf0dYvByiQvQA)
-- [Задание 2](https://disk.yandex.ru/i/Y_qHx9OPWM07OA)
+[Задание 0](https://disk.yandex.ru/i/W4ZIwJG0dz6byQ)  
+[Задание 1](https://disk.yandex.ru/i/0bf0dYvByiQvQA)  
+[Задание 2](https://disk.yandex.ru/i/Y_qHx9OPWM07OA)  
 
 В этой лабораторной работе в задании 0 содержится описание портфолио специалистов,  
 в задании 1 — создание сайта-портфолио,  
@@ -95,10 +95,10 @@ tags:
 
 #### Лабораторная работа
 
-- [ЛР Maxima 3.1](https://disk.yandex.ru/d/5EEsYicmYv776Q)
-- [ЛР Maxima 3.2](https://disk.yandex.ru/d/9mBK6zKv3w2rCA)
-- [ЛР Maxima 3.3](https://disk.yandex.ru/d/Hqwo-jfMUIaR8w)
-- [ЛР Maxima 3.4](https://disk.yandex.ru/d/DO82IqCuo3JZ_w)
+[ЛР Maxima 3.1](https://disk.yandex.ru/d/5EEsYicmYv776Q)  
+[ЛР Maxima 3.2](https://disk.yandex.ru/d/9mBK6zKv3w2rCA)  
+[ЛР Maxima 3.3](https://disk.yandex.ru/d/Hqwo-jfMUIaR8w)  
+[ЛР Maxima 3.4](https://disk.yandex.ru/d/DO82IqCuo3JZ_w)  
 
 В файлах «ЛР Maxima» приведено выполнение заданий 3.1, 3.2, 3.3, 3.4 лабораторной работы, в них содержатся примеры с основными командами системы компьютерной алгебры Maxima: работа с переменными и арифметическими операциями, работа со встроенными математическими и с пользовательскими функциями, работа со списками.
 
@@ -106,14 +106,14 @@ tags:
 [ИСР 3.2](https://disk.yandex.ru/d/uSphR3tbvJMtiQ)  
 [ИСР 3.3](https://disk.yandex.ru/d/PKCo8VRalnnBDw)  
 [ИСР 3.4](https://disk.yandex.ru/i/xUlL5byTaLZw_g)  
-[ИСР 3.5](https://disk.yandex.ru/i/K7sZzCWeSYPBZw)
+[ИСР 3.5](https://disk.yandex.ru/i/K7sZzCWeSYPBZw)  
 
 В этой инвариантной самостоятельной работе выполнена работа с переменными и арифметическими операциями, с функциями и списками.  
 В задании 3.4 выполнен плакат по основам работы с системой компьютерной алгебры Maxima, а в задании 3.5 составлена интеллект-карта по рекомендациям по работе в системе компьютерной алгебры Maxima.
 
 [ВСР 3.1](https://disk.yandex.ru/i/lfFiuTdIHyqfyw)  
 [ВСР 3.5](https://disk.yandex.ru/i/E0cASuwvxPw_jg)  
-[ВСР 3.8](https://disk.yandex.ru/i/e3GjcTE0-wV8_Q)
+[ВСР 3.8](https://disk.yandex.ru/i/e3GjcTE0-wV8_Q)  
 
 В этой вариативной самостоятельной работе:  
 - в задании 3.1 составлен аннотированный список литературы и интернет-ресурсов по теме *«Работа с прикладной компьютерной программой Maxima»*;  
@@ -127,14 +127,14 @@ tags:
 ### Использование системы компьютерной алгебры при работе с матрицами
 
 #### Лабораторная работа
-- [ЛР 4.1](https://disk.yandex.ru/d/QcCfge3V_uAsCQ)
+[ЛР 4.1](https://disk.yandex.ru/d/QcCfge3V_uAsCQ)
 
 Особенности и способы выполнения действий с матрицами.  
 Для вычисления произведения матриц в системе компьютерной алгебры Maxima нужно записать матрицы через ".".  
 Для нахождения квадрата/куба матрицы нужно написать имя матрицы через "." столько раз, какова степень, в которую возводится матрица.  
 Для вычисления матричного многочлена необходимо пользоваться пунктами 1 и 2 и умножением матрицы на число (для этого нужно написать имя матрицы и через "*" умножить на необходимый коэффициент).
 
-- [ЛР 4.2](https://disk.yandex.ru/d/tt97WwQJWgxKYw)
+[ЛР 4.2](https://disk.yandex.ru/d/tt97WwQJWgxKYw)
 
 Ход работы и способы выполнения транспонирования матриц, нахождения обратной матрицы.  
 Для получения транспонированной матрицы из исходной можно либо воспользоваться главным меню «Алгебра – Транспонировать матрицу», либо с помощью функции `transpose`.  
@@ -149,7 +149,7 @@ tags:
 2. Ввод команды `invert`.  
 3. Возведение матрицы в степень (–1).
 
-- [ЛР 4.3](https://disk.yandex.ru/d/ZSCVjspEU5GPyA)
+[ЛР 4.3](https://disk.yandex.ru/d/ZSCVjspEU5GPyA)
 
 Способы нахождения ступенчатой матрицы:  
 1. При помощи функции `triangularize` (не нормирует элементы главной диагонали).  
@@ -157,7 +157,7 @@ tags:
 
 Для вычисления ранга матрицы используют команду `rank`.
 
-- [ЛР 4.4](https://disk.yandex.ru/d/NhnRGtxetXf1EQ)
+[ЛР 4.4](https://disk.yandex.ru/d/NhnRGtxetXf1EQ)
 
 Чтобы из исходной матрицы получить новую, удалив одну или несколько строк/столбцов, используют команду `submatrix(x, M, y)`.
 
@@ -168,7 +168,7 @@ tags:
 [ИСР 4.2](https://disk.yandex.ru/d/F9CCbNEqTgDu9w)  
 [ИСР 4.3](https://disk.yandex.ru/d/6fIOnjXfsDptbw)  
 [ИСР 4.4](https://disk.yandex.ru/d/zes_49jYAHU4fw)  
-[ИСР 4.5](https://disk.yandex.ru/i/DTgJvPfKrKCzWA)
+[ИСР 4.5](https://disk.yandex.ru/i/DTgJvPfKrKCzWA)  
 
 Отработаны основные команды Maxima для работы с матрицами: действия, транспонирование, ступенчатый вид, работа с элементами.  
 Создан скринкаст «Рекомендации по работе с матрицами средствами программы Maxima».
@@ -178,7 +178,7 @@ tags:
 #### ВСР
 [ВСР 4.2](https://disk.yandex.ru/i/qtG7H8Y71l7NLA)  
 [ВСР 4.4](https://disk.yandex.ru/i/6nxgkiaQe5PWyw)  
-[ВСР 4.6](https://disk.yandex.ru/i/UbXazf60tVj1cg)
+[ВСР 4.6](https://disk.yandex.ru/i/UbXazf60tVj1cg)  
 
 Созданы интеллект-карта, справочник и электронный буклет по работе с матрицами в Maxima.
 
@@ -189,7 +189,7 @@ tags:
 
 #### Лабораторная работа
 
-- [ЛР 5.0](https://disk.yandex.ru/d/E0YnyCiGz6kj1Q)
+[ЛР 5.0](https://disk.yandex.ru/d/E0YnyCiGz6kj1Q)
 
 В этой части изучено:
 
@@ -199,7 +199,7 @@ tags:
 
 Функция rat(число) приводит число, записанное в виде конечной десятичной дроби, к рациональному числу, записанному обыкновенной дробью.
 
-- [ЛР 5.1](https://disk.yandex.ru/d/nqXvUJVZgdZDhA)
+[ЛР 5.1](https://disk.yandex.ru/d/nqXvUJVZgdZDhA)
 
 Функция rat - Преобразование рационального выражения к канонической форме (Canonical Rational Expression, CRE)
 
@@ -211,7 +211,7 @@ tags:
 
 Собирание дробей с одинаковыми знаменателями производит функция combine(выражение).
 
-- [ЛР 5.2](https://disk.yandex.ru/d/9LGgxTS1Q7upRQ)
+[ЛР 5.2](https://disk.yandex.ru/d/9LGgxTS1Q7upRQ)
 
 Функция ratsimp(выражение) упрощает выражение за счёт рациональных преобразований.
 
@@ -223,18 +223,18 @@ radcan(выражение) занимается упрощением:
 Функция factcomb(выражение) проводит упрощения вида n!*(n+1) = (n+1)! и тому подобные.  
 Функция minfactorial, напротив, сокращает факториалы, то есть действует по принципу n!/(n–1)! = n.
 
-- [ЛР 5.3](https://disk.yandex.ru/d/eCQ7LVgOzONUnw)
+[ЛР 5.3](https://disk.yandex.ru/d/eCQ7LVgOzONUnw)
 
 Для решения алгебраических уравнений в Maxima используется функция solve(expr, x).  
 С помощью solve можно решать и системы линейных уравнений, передавая два аргумента — уравнения и неизвестные.
 
 #### ИСР
 
-- [ИСР 5.1](https://disk.yandex.ru/d/UXOjLg037d0ndw)
-- [ИСР 5.2](https://disk.yandex.ru/d/OHgDvhqeuUUtPA)
-- [ИСР 5.3](https://disk.yandex.ru/d/Wd0nxMyWNu7eNQ)
-- [ИСР 5.4](https://disk.yandex.ru/d/bUag7ALwuLpHhQ)
-- [ИСР 5.5](https://disk.yandex.ru/i/GBq4Xg5bGL73rg)
+[ИСР 5.1](https://disk.yandex.ru/d/UXOjLg037d0ndw)  
+[ИСР 5.2](https://disk.yandex.ru/d/OHgDvhqeuUUtPA)  
+[ИСР 5.3](https://disk.yandex.ru/d/Wd0nxMyWNu7eNQ)  
+[ИСР 5.4](https://disk.yandex.ru/d/bUag7ALwuLpHhQ)  
+[ИСР 5.5](https://disk.yandex.ru/i/GBq4Xg5bGL73rg)  
 
 Отработаны основные команды системы компьютерной алгебры Maxima для работы с выражениями и уравнениями:  
 • Упрощение алгебраических выражений.  
@@ -245,9 +245,9 @@ radcan(выражение) занимается упрощением:
 
 #### ВСР
 
-- [ВСР 5.2](https://disk.yandex.ru/i/JXh7-epqz1GE7Q)
-- [ВСР 5.4](https://disk.yandex.ru/i/9RKKBnbhvLpPNQ)
-- [ВСР 5.6](https://disk.yandex.ru/i/IbMnDY91yaKuKw)
+[ВСР 5.2](https://disk.yandex.ru/i/JXh7-epqz1GE7Q)   
+[ВСР 5.4](https://disk.yandex.ru/i/9RKKBnbhvLpPNQ)  
+[ВСР 5.6](https://disk.yandex.ru/i/IbMnDY91yaKuKw)   
 
 В ВСР 5.2 создана интеллект-карта по теме "Работа с выражениями и уравнениями в прикладной компьютерной программе Maxima".  
 В ВСР 5.4 создан текстовый документ "Справочник по формулам Maxima, используемых при работе с уравнениями".  
@@ -260,17 +260,17 @@ radcan(выражение) занимается упрощением:
 
 #### Лабораторная работа
 
-- [ЛР 6.1](https://disk.yandex.ru/d/jlrlSBdyYg0h_g)
+[ЛР 6.1](https://disk.yandex.ru/d/jlrlSBdyYg0h_g)
 
 limit(функция, переменная, значение); или limit(функция, переменная, значение, слева/справа).  
 Предел слева обозначается minus, а справа — plus.
 
-- [ЛР 6.2](https://disk.yandex.ru/d/3RJJMJoBnz4uuw)
+[ЛР 6.2](https://disk.yandex.ru/d/3RJJMJoBnz4uuw)  
 
 diff(функция, переменная, порядок производной).  
 Пример: diff(x^8*y^5, x, 4, y, 2).
 
-- [ЛР 6.3](https://disk.yandex.ru/d/mrKp_NLlz9ZGHg)
+[ЛР 6.3](https://disk.yandex.ru/d/mrKp_NLlz9ZGHg)  
 
 integrate(функция, переменная).  
 Для определённого интеграла указываются пределы интегрирования.  
@@ -278,10 +278,10 @@ integrate(функция, переменная).
 
 #### ИСР
 
-- [ИСР 6.1](https://disk.yandex.ru/d/op3DU8S8x9RjFA)
-- [ИСР 6.2](https://disk.yandex.ru/d/BHyVw-X7sEmc0A)
-- [ИСР 6.3](https://disk.yandex.ru/d/LbnoGfatOaY-zw)
-- [ИСР 6.4](https://disk.yandex.ru/i/zca8KAtfnat0AA)
+[ИСР 6.1](https://disk.yandex.ru/d/op3DU8S8x9RjFA)  
+[ИСР 6.2](https://disk.yandex.ru/d/BHyVw-X7sEmc0A)  
+[ИСР 6.3](https://disk.yandex.ru/d/LbnoGfatOaY-zw)  
+[ИСР 6.4](https://disk.yandex.ru/i/zca8KAtfnat0AA)  
 
 Отработаны основные команды системы компьютерной алгебры Maxima для:  
 • Нахождения пределов  
@@ -290,8 +290,8 @@ integrate(функция, переменная).
 
 #### ВСР
 
-- [ВСР 6.2](https://disk.yandex.ru/i/DIv_R7WatMkwcg)
-- [ВСР 6.3](https://disk.yandex.ru/i/BsoNtEgazfm18g)
+[ВСР 6.2](https://disk.yandex.ru/i/DIv_R7WatMkwcg)  
+[ВСР 6.3](https://disk.yandex.ru/i/BsoNtEgazfm18g)  
 
 В ВСР 6.2 создана интеллект-карта по теме «Решение задач математического анализа в прикладной компьютерной программе Maxima».  
 В ВСР 6.3 создан текстовый документ "Справочник по формулам Maxima, используемых при решении пределов, производных, интегралов".
