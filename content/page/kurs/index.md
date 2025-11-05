@@ -2,7 +2,7 @@
 title: "Курсовые работы"
 description: "Курсовые работы"
 date: 2024-02-20
-slug: "kurs1"
+slug: "kurs"
 ---
 
 
