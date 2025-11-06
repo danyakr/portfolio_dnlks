@@ -17,7 +17,9 @@ slug: "itm"
 #### Лабораторная работа
 
 [Задание 0](https://disk.yandex.ru/i/W4ZIwJG0dz6byQ)   
+
 [Задание 1](https://disk.yandex.ru/i/0bf0dYvByiQvQA)  
+
 [Задание 2](https://disk.yandex.ru/i/Y_qHx9OPWM07OA)  
 
 В этой лабораторной работе в задании 0 содержится **описание портфолио специалистов**,  
