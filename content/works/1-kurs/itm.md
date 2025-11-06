@@ -88,8 +88,8 @@ slug: "itm"
 
 #### ВСР
 
-[ВСР 2.1](https://disk.yandex.ru/i/SPsuQrDhvCJ4-g)  
-[ВСР 2.5](https://disk.yandex.ru/i/uwZE7JTdtm1ptQ)  
+[ВСР 2.1](https://disk.yandex.ru/i/SPsuQrDhvCJ4-g)    
+[ВСР 2.5](https://disk.yandex.ru/i/uwZE7JTdtm1ptQ)    
 [ВСР 2.8](https://disk.yandex.ru/i/yIxt69u2NB0bmg)
 
 Выполненная **вариативная самостоятельная работа** содержит:  
