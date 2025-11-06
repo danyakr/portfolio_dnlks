@@ -89,7 +89,9 @@ slug: "itm"
 #### ВСР
 
 [ВСР 2.1](https://disk.yandex.ru/i/SPsuQrDhvCJ4-g)    
-[ВСР 2.5](https://disk.yandex.ru/i/uwZE7JTdtm1ptQ)    
+
+[ВСР 2.5](https://disk.yandex.ru/i/uwZE7JTdtm1ptQ)   
+
 [ВСР 2.8](https://disk.yandex.ru/i/yIxt69u2NB0bmg)
 
 Выполненная **вариативная самостоятельная работа** содержит:  
@@ -105,8 +107,11 @@ slug: "itm"
 #### Лабораторная работа
 
 [ЛР Maxima 3.1](https://disk.yandex.ru/d/5EEsYicmYv776Q)  
+
 [ЛР Maxima 3.2](https://disk.yandex.ru/d/9mBK6zKv3w2rCA)  
+
 [ЛР Maxima 3.3](https://disk.yandex.ru/d/Hqwo-jfMUIaR8w)  
+
 [ЛР Maxima 3.4](https://disk.yandex.ru/d/DO82IqCuo3JZ_w)  
 
 В файлах «ЛР Maxima» приведено выполнение заданий 3.1, 3.2, 3.3, 3.4 лабораторной работы, в них содержатся примеры с **основными командами системы компьютерной алгебры Maxima**: **работа с переменными и арифметическими операциями**, **работа со встроенными математическими и с пользовательскими функциями**, **работа со списками**.
@@ -114,9 +119,13 @@ slug: "itm"
 #### ИСР
 
 [ИСР 3.1](https://disk.yandex.ru/d/-KhcpY7dvvvEFA)  
+
 [ИСР 3.2](https://disk.yandex.ru/d/uSphR3tbvJMtiQ)  
+
 [ИСР 3.3](https://disk.yandex.ru/d/PKCo8VRalnnBDw)  
+
 [ИСР 3.4](https://disk.yandex.ru/i/xUlL5byTaLZw_g)  
+
 [ИСР 3.5](https://disk.yandex.ru/i/K7sZzCWeSYPBZw)  
 
 В этой **инвариантной самостоятельной работе** выполнена **работа с переменными и арифметическими операциями, с функциями и списками**.  
@@ -125,7 +134,9 @@ slug: "itm"
 #### ВСР
 
 [ВСР 3.1](https://disk.yandex.ru/i/lfFiuTdIHyqfyw)  
+
 [ВСР 3.5](https://disk.yandex.ru/i/E0cASuwvxPw_jg)  
+
 [ВСР 3.8](https://disk.yandex.ru/i/e3GjcTE0-wV8_Q)  
 
 В этой **вариативной самостоятельной работе**:  
@@ -175,9 +186,13 @@ slug: "itm"
 
 #### ИСР
 [ИСР 4.1](https://disk.yandex.ru/d/EYrEVugdlqpEdQ)  
+
 [ИСР 4.2](https://disk.yandex.ru/d/F9CCbNEqTgDu9w)  
+
 [ИСР 4.3](https://disk.yandex.ru/d/6fIOnjXfsDptbw)  
+
 [ИСР 4.4](https://disk.yandex.ru/d/zes_49jYAHU4fw)  
+
 [ИСР 4.5](https://disk.yandex.ru/i/DTgJvPfKrKCzWA)  
 
 **Отработаны основные команды Maxima для работы с матрицами: действия, транспонирование, ступенчатый вид, работа с элементами**.  
@@ -185,7 +200,9 @@ slug: "itm"
 
 #### ВСР
 [ВСР 4.2](https://disk.yandex.ru/i/qtG7H8Y71l7NLA)  
+
 [ВСР 4.4](https://disk.yandex.ru/i/6nxgkiaQe5PWyw)  
+
 [ВСР 4.6](https://disk.yandex.ru/i/UbXazf60tVj1cg)  
 
 Созданы **интеллект-карта, справочник и электронный буклет** по работе с матрицами в Maxima.
@@ -239,9 +256,13 @@ slug: "itm"
 #### ИСР
 
 [ИСР 5.1](https://disk.yandex.ru/d/UXOjLg037d0ndw)  
+
 [ИСР 5.2](https://disk.yandex.ru/d/OHgDvhqeuUUtPA)  
+
 [ИСР 5.3](https://disk.yandex.ru/d/Wd0nxMyWNu7eNQ)  
+
 [ИСР 5.4](https://disk.yandex.ru/d/bUag7ALwuLpHhQ)  
+
 [ИСР 5.5](https://disk.yandex.ru/i/GBq4Xg5bGL73rg)  
 
 **Отработаны основные команды системы компьютерной алгебры Maxima для работы с выражениями и уравнениями**:  
@@ -254,7 +275,9 @@ slug: "itm"
 #### ВСР
 
 [ВСР 5.2](https://disk.yandex.ru/i/JXh7-epqz1GE7Q)   
+
 [ВСР 5.4](https://disk.yandex.ru/i/9RKKBnbhvLpPNQ)  
+
 [ВСР 5.6](https://disk.yandex.ru/i/IbMnDY91yaKuKw)   
 
 В ВСР 5.2 создана **интеллект-карта** по теме "**Работа с выражениями и уравнениями в прикладной компьютерной программе Maxima**".  
@@ -287,8 +310,11 @@ slug: "itm"
 #### ИСР
 
 [ИСР 6.1](https://disk.yandex.ru/d/op3DU8S8x9RjFA)  
+
 [ИСР 6.2](https://disk.yandex.ru/d/BHyVw-X7sEmc0A)  
+
 [ИСР 6.3](https://disk.yandex.ru/d/LbnoGfatOaY-zw)  
+
 [ИСР 6.4](https://disk.yandex.ru/i/zca8KAtfnat0AA)  
 
 **Отработаны основные команды системы компьютерной алгебры Maxima для**:  
@@ -299,6 +325,7 @@ slug: "itm"
 #### ВСР
 
 [ВСР 6.2](https://disk.yandex.ru/i/DIv_R7WatMkwcg)  
+
 [ВСР 6.3](https://disk.yandex.ru/i/BsoNtEgazfm18g)  
 
 В ВСР 6.2 создана **интеллект-карта** по теме «**Решение задач математического анализа в прикладной компьютерной программе Maxima**».  
