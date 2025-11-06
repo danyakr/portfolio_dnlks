@@ -21,9 +21,7 @@ tags:
 
 **[Docker BPR (Build & Push & Run)](https://hub.docker.com/r/danyakr/myapp)**  
 
-**[Скринкаст Docker-Compose First Look](https://disk.yandex.ru/i/hlaBlqHzOIWbmw)**  
-
-**[githab](https://github.com/danyakr/ping-pong-app)**  
+**[Скринкаст Docker-Compose First Look](https://disk.yandex.ru/i/hlaBlqHzOIWbmw)**  + **[githab](https://github.com/danyakr/ping-pong-app)**  
 
 **[LetsEncrypt & Nginx Proxy](https://github.com/danyakr/ngnix_letsencrypt)**  
 
