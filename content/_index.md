@@ -1,5 +1,4 @@
 ---
-type: "page"
 menu:
     main:
         weight: -100
