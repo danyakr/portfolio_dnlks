@@ -1,11 +1,11 @@
 # Главное меню
-[[main]]
-identifier = "home"
-name = "Главная"
-url = "/"
-weight = 1
-[main.params]
-icon = "home"
+# [[main]]
+# identifier = "home"
+# name = "Главная"
+# url = "/"
+# weight = 1
+# [main.params]
+# icon = "home"
 
 [[main]]
 identifier = "works"
