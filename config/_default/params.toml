@@ -2,7 +2,7 @@
 mainSections = ["works", "practices"]
 
 rssFullContent = true
-favicon = "/favicon.ico"
+favicon = "/portfolio_dnlks/favicon.ico"
 
 [footer]
 since = 2022
