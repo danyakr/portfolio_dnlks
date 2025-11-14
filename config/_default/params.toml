@@ -44,6 +44,11 @@ type = "tag-cloud"
 [widgets.homepage.params]
 limit = 15
 
+[[widgets.homepage]]
+type = "categories"
+[widgets.homepage.params]
+limit = 10
+
 # Виджет на странице поста
 [[widgets.page]]
 type = "toc"
@@ -61,3 +66,4 @@ enabled = true
 # Отключаем комментарии
 [comments]
 enabled = false
+
