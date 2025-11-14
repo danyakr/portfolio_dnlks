@@ -30,13 +30,13 @@ weight = 5
 [main.params]
 icon = "search"
 
-[[main]]
-identifier = "archives"
-name = "Архив"
-url = "/archives/"
-weight = 6
-[main.params]
-icon = "archives"
+# [[main]]
+# identifier = "archives"
+# name = "Архив"
+# url = "/archives/"
+# weight = 6
+# [main.params]
+# icon = "archives"
 
 # Социальные ссылки
 [[social]]
