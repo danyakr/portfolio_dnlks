@@ -27,4 +27,6 @@ tags:
 
 **[Практическая работа: Разработка распределенной системы агрегации прогнозов погоды с использованием Spring Boot и RabbitMQ](https://github.com/danyakr/prog_7_pract_RabbitMQ)**  
 
+**[Задание - Технологии программирования для образования](https://github.com/danyakr/prog_7_module_1)**
+
 ---
